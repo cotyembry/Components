@@ -1,3 +1,9 @@
+/**
+ *	started development at 10:30pm 01-16-2017
+ *	ended development at 01:26am 01-16-2017 
+ *
+ *	(ImageThumbnailAnimated.jsx and Image.jsx were developed together so don't double charge for these two components)
+ */
 
 import React from 'react';
 
